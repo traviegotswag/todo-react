@@ -36,3 +36,7 @@ When you add an item to the list, have it expire after a certain time, or automa
 
 #### Further
 Add the ability to create different parent lists and add items to any of those lists.
+
+Notes:
+1. Spread Operator: https://medium.com/@thejasonfile/using-the-spread-operator-in-react-setstate-c8a14fc51be1
+2. Tutorial: https://medium.com/@aghh1504/1-simple-react-todo-list-52186b62976b
